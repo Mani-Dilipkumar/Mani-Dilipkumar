@@ -1,12 +1,12 @@
 # Welcome 👋, I'm Manimalavan Dilipkumar
 
-### Business Analyst & Product Manager|
+### Business Analyst | Product Manager | AI Enthusiast
 
 Hello! I'm Mani, a passionate professional standing at the crossroads of data analytics, product strategy, and artificial intelligence. My journey is driven by a curiosity about the power of data to transform ideas into tangible outcomes and a deep belief in the potential of AI to revolutionize how we approach business challenges. Let's dive into the world of data-driven decision-making and innovative solutions together!
 
 ## ### What's Brewing? 🛠️
 
-- 🔭 I’m currently working on: **Engaging with the potential of chatbots to enhance educational opportunities for underserved students, aiming to democratize access to cutting-edge learning tools.**
+- 🔭 I’m currently working on: **Engaging with the GPT 4  to enhance educational opportunities for marginalized children, aiming to democratize access to cutting-edge learning tools.**
 - 🌱 I’m currently learning: **Advanced Data Analysis Techniques, Python, and Tableau for Business Intelligence**
 - 💬 Ask me about: **Data Analysis, Project Management, Strategic Decision-Making, Business Acquisition Strategies**
 - 📫 How to reach me: **[Manimalavan.dilip@gmail.com](mailto:Manimalavan.dilip@gmail.com)** | **[LinkedIn](https://linkedin.com/in/mani-malavan/)**
