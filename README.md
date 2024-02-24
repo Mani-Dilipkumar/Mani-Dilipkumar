@@ -48,16 +48,42 @@ A data analyst and product manager by profession, I am passionate about utilizin
 - **Email**: [Manimalavan.dilip@gmail.com](mailto:Manimalavan.dilip@gmail.com)
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manimalavan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mani-malavan/)
 
-### 🌟 Highlight Projects
-1. To paste the report on Impact of Adblockers 
-2. Topic Modelling workflow integrated with BERT
-3. Report on the Industry analysis did for the Automation company
-4. Literature review on how we can incorporate the Chatgpt and other things in the students currciulam
+### 🌟 Professional Highlights & Key Projects
+
+- 📈 **Business Growth Through Data Analytics**: Played a pivotal role in identifying new business opportunities and improvement areas at Rane Holdings Limited, contributing to a forecasted 25% increase in market share over two years.
+  
+- 🏗️ **Project Viability and Strategic Planning**: Utilized comprehensive data analytics to evaluate long-term project feasibility, marking 80% of evaluated projects as viable at Rane Holdings Limited, aligning with the company's strategic growth.
+
+- 🌐 **Digital Transformation Initiatives**: Instrumental in supporting digitalization efforts at Turbo Energy Limited, resulting in a remarkable 40% increase in productivity during the pandemic.
+
+- 🤖 **Promoting AI Literacy**: At Rideau Rockliff Community Centre, I am bridging the digital divide by enhancing AI literacy among youth, leading to more focused educational initiatives and improved program efficiency.
+
+- 🔍 **Risk Assessment and Market Potential Analysis**: Uncovered 30% untapped market potential in niche sectors for a client's risk assessment software at Sprott School Consulting Group, driving development of risk mitigation strategies.
+
+#### Featured Projects
+- **Dilectica's Turbocharger Market Analysis**: Offered freelance techno-commercial consultation, shaping the business landscape for an Indonesian client.
+  
+- **Impact of Ad Blockers Study**: Conducted research on the revenue impact of ad-blockers, exploring user motivations and advocating for minimalism in digital ads to improve engagement.
+
+- **Eco-Friendly Innovation - Black is the New Green**: Developed a low-cost Solar Pyrolysis machine converting coconut shells into charcoal briquettes, pitching the concept to FMCG entrepreneurs.
+
+### 📚 Education & Certifications
+
+- 🏅 **Google Data Analytics Certification** (2023-Present)
+  
+- 🏅 **Wharton Online - Business Analytics Specialization** (2021-2022)
+
+### 🤝 Connect & Collaborate
+
+Interested in exploring AI's impact on business or discussing innovative project ideas? Let's connect and see where our collaboration can lead us:
+
+- 📧 [Manimalavan.dilip@gmail.com](mailto:Manimalavan.dilip@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mani-malavan/)
 
 ### 📊 My GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mani-Dilipkumar&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mani-Dilipkumar&show_icons=true&
 
 ### ☕ Support & Collaboration
 If you're interested in AI's role in business analysis or have innovative project ideas, let's connect to explore future collaborations.
